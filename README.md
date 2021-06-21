@@ -4,6 +4,7 @@
 
 Javascript, NodeJS, React Native, React and PostgreSQL are the technologies I am most familiar with. But I've also had contact with PHP, TypeScript, MySQL, HTML 5 and CSS 3.
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-tavares-0a1661186/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mattheusdev/)
 <!--
 **matt-tavares/matt-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

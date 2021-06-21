@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world 👋 I'm Matheus Tavares.
+
+### I am a student of Systems Development Analysis at the Instituto Federal de Educação, Ciências e Technologia de Sergipe.
+
+Javascript, NodeJS, React Native, React and PostgreSQL are the technologies I am most familiar with. But I've also had contact with PHP, TypeScript, MySQL, HTML 5 and CSS 3.
 
 <!--
 **matt-tavares/matt-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 ### I am a student of Systems Development Analysis at the Instituto Federal de Educação, Ciências e Tecnologia de Sergipe.
 
-Javascript, NodeJS, React Native, React and PostgreSQL are the technologies I am most familiar with. But I've also had contact with PHP, Python, TypeScript, MySQL, HTML 5 and CSS 3.
+Javascript, NodeJS, React Native, React and PostgreSQL are the technologies I am most familiar with. But I've also had contact with PHP, Python, TypeScript, MySQL, MariaDB, JQuery, HTML 5 and CSS 3.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-tavares-0a1661186/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mattheusdev/)
 <!--

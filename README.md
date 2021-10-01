@@ -3,7 +3,7 @@
 ### I'm Matheus Tavares! 👨‍🚀
 ###### Currently I study Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Sergipe.
 
-###### I have some experiences with JavaScript, Python, PHP, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL, among other technologies.
+###### I have some experiences with JavaScript, Python, PHP, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL, also other technologies.
 
 ##
 <div>

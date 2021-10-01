@@ -12,7 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-tavares&layout=compact&theme=dark" />
 </div>
 
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="Matt-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" >
   <img align="center" alt="Matt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >

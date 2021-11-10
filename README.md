@@ -1,8 +1,10 @@
 # Hello world!
 
 ### I'm Matheus Tavares! 👨‍🚀
-###### I am currently graduating in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Sergipe..
-
+### Who am I?
+#### Here's a brief summary:
+###### Lover of books, science, astronomy, music and sports, especially football ⚽ and american football 🏈. In my teenage years I discovered my passion for technology.
+###### I am currently graduating in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Sergipe.
 ###### I have some experiences with JavaScript, Python, PHP, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL and some other technologies.
 
 ##

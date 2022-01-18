@@ -19,16 +19,12 @@
   <a href="https://javascript.info/" target="_blank"><img align="center" alt="Matt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" ></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Matt-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" ></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Matt-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" ></a>
-  <a href="https://www.php.net/" target="_blank"><img align="center" alt="Matt-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" ></a>
   <a href="https://pt-br.reactjs.org/" target="_blank"><img align="center" alt="Matt-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" ></a>
   <a href="https://reactnative.dev/" target="_blank"><img align="center" alt="Matt-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" ></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img align="center" alt="Matt-nodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" ></a>
   <a href="https://jquery.com/" target="_blank"><img align="center" alt="Matt-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" ></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" alt="Matt-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" ></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="Matt-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" ></a>
   <a href="https://www.postgresql.org/" target="_blank"><img align="center" alt="Matt-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="Matt-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" ></a>
-  <a href="https://firebase.google.com/docs" target="_blank"><img align="center" alt="Matt-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" ></a>
   <a href="https://getbootstrap.com/" target="_blank"><img align="center" alt="Matt-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" ></a>
 </div>
 

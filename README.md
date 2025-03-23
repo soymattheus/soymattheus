@@ -3,9 +3,9 @@
 ### I'm Matheus Tavares! 👨‍🚀
 ### Who am I?
 #### Here's a brief summary:
-###### Lover of books, science, astronomy, music and sports, especially football ⚽ and american football 🏈. In my teenage years I discovered my passion for technology.
-###### I am currently graduating in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Sergipe.
-###### I have some experiences with JavaScript, Python, PHP, TypeScript, ReactJS, React Native, NodeJS, PostgreSQL and some other technologies.
+###### Lover of books, science, astronomy, music and sports, especially soccer ⚽ and football 🏈. In my teenage years I discovered my passion for technology.
+###### I am graduated in Systems Analysis and Development at the Federal Institute of Education, Science and Technology of Sergipe.
+###### I have experiences with JavaScript, Typescript, Python, ReactJS, NextJS, HTML, CSS, Tailwind, PostCSS, Styled Components, React Native, NodeJS, ExpressJS, Flask, FastAPI, Fastify, Oracle, MySQL, PostgreSQL and some other technologies.
 
 ##
 <div>
@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Matt-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" ></a>
+  <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Matt-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" ></a>
   <a href="https://javascript.info/" target="_blank"><img align="center" alt="Matt-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" ></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Matt-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" ></a>
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Matt-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" ></a>

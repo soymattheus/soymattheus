@@ -8,11 +8,12 @@
 ###### I have experiences with JavaScript, Typescript, Python, ReactJS, NextJS, HTML, CSS, Tailwind, PostCSS, Styled Components, React Native, NodeJS, ExpressJS, Flask, FastAPI, Fastify, Oracle, MySQL, PostgreSQL and some other technologies.
 
 ##
-<div>
+<!-- <div>
   <a href="https://github.com/soymattheus" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soymattheus&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soymattheus&layout=compact&theme=dark" />
 </div>
+-->
 
 <div style="display: inline_block"><br>
   <a href="https://ubuntu.com/" target="_blank"><img align="center" alt="Matt-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" ></a>
